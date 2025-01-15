@@ -1,0 +1,156 @@
+title: Nuxt UI Pro - Landing template
+description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+hero:
+  title: Because Eloquent Speakers Can Be Deceptive, I Let My Work Speak For Me
+  description: Cybersecurity, Fullstack, Cryptographe, TechPreneur
+  headline:
+    label: Old version
+    to: https://mamekem.vercel.app
+    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  links:
+    - label: Project
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '#features'
+      size: xl
+    
+logos:
+  title: Trusted by the world's best
+  icons:
+    - i-simple-icons-amazonaws
+    - i-simple-icons-heroku
+    - i-simple-icons-netlify
+    - i-simple-icons-vercel
+    - i-simple-icons-cloudflare
+features:
+  headline: Features
+  title: Why choose our service?
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  items:
+    - title: Easy to use
+      description: Simplifying complex solutions for seamless integration across web and mobile platforms.
+      icon: i-heroicons-cog
+    - title: Reliable
+      description: Delivering dependable and optimized solutions tailored to your specific needs.
+      icon: i-heroicons-check
+    - title: Secure
+      description: Enhancing cybersecurity measures to protect your data and ensure peace of mind.
+      icon: i-heroicons-lock-closed
+    - title: Fast
+      description: Rapid development cycles to bring your ideas to life without compromising quality.
+      icon: i-heroicons-rocket-launch
+    - title: Affordable
+      description: Offering cost-effective services without sacrificing excellence or innovation.
+      icon: i-heroicons-currency-dollar
+    - title: Scalable
+      description: Crafting solutions designed to grow with your business and future needs.
+      icon: i-heroicons-chart-bar
+pricing:
+  headline: Pricing
+  title: A plan for every need
+  description: Pariatur laborum dolor ea commodo sit aute aliquip qui et cillum excepteur.
+  plans:
+    - title: Basic
+      description: A basic plan for individuals.
+      price: $9.99
+      align: top
+      button:
+        label: Get Started
+        color: gray
+      features:
+        - 1 GB Storage
+        - 1 Email Account
+        - 1 Domain
+        - 1 Website
+        - 1 Database
+        - 1 SSL Certificate
+        - 1 Support Ticket
+    - title: Standard
+      description: A standard plan for small teams.
+      price: $19.99
+      highlight: true
+      scale: true
+      align: top
+      button:
+        label: Get Started
+      features:
+        - 10 GB Storage
+        - 10 Email Accounts
+        - 10 Domains
+        - 10 Websites
+        - 10 Databases
+        - 10 SSL Certificates
+        - 10 Support Tickets
+    - title: Premium
+      description: A premium plan for large teams.
+      price: $29.99
+      align: top
+      button:
+        label: Get Started
+        color: gray
+      features:
+        - 100 GB Storage
+        - 100 Email Accounts
+        - 100 Domains
+        - 100 Websites
+        - 100 Databases
+        - 100 SSL Certificates
+        - 100 Support Tickets
+testimonials:
+  headline: Testimonials
+  title: What ours customers and partner are saying.
+  description: Proident sunt exercitation minim laborum enim laboris labore esse.
+  items:
+    - quote: Rosly's work on the APILEC association website was nothing short of exceptional. His ability to understand our needs and translate them into a functional and visually engaging platform helped elevate the entire project. His dedication truly made a difference.
+      author:
+        name: Dr. Kadzue Oscar
+        description: Director at APILEC Association
+        avatar:
+          src: /oscar.png
+          loading: lazy
+    - quote: Working with Rosly on EasyInfo was a remarkable experience. His deep technical knowledge and innovative solutions helped us deliver a product that surpassed expectations.
+      author:
+        name: Prof. Franklin Tchakounté
+        description:  CEO
+        avatar:
+          src: /tchafros.png
+          loading: lazy
+    - quote: The successful deployment of our personnel management system at DKP-B-learning was thanks to Rosly's thorough approach, problem-solving skills, and timely delivery.
+      author:
+        name: Paul DKP
+        description: Director at DKP-B-learning
+        avatar:
+          src: /dkp.png
+          loading: lazy
+    
+    - quote: Travailler avec Rosly a été une expérience enrichissante. Non seulement ses compétences techniques sont exceptionnelles, mais il excelle aussi dans la documentation claire et détaillée de l'API, ce qui a facilité notre collaboration en frontend.
+      author:
+        name: Zenderock Emmanuel
+        description: Frontend Dev
+        avatar:
+          src: /zenderock.png
+          loading: lazy
+   
+cta:
+  title: Get started today
+  description: Any Mission, or any Vison let me know
+  links:
+    - label: Let Build together
+      size: xl
+faq:
+  title: Frequently asked questions
+  description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.
+  items:
+    - label: Is this a secure service?
+      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+      defaultOpen: true
+    - label: How can I cancel my subscription?
+      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
+    - label: How does the free trial work?
+      content: Quis officia commodo magna eu qui aliquip duis.
+    - label: Can I switch plans later?
+      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
+    - label: Do you offer refunds?
+      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
+    - label: Do you offer support?
+      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.
